@@ -11,5 +11,3 @@ ddd
 +++
 
 --- hello
-
-ccc
